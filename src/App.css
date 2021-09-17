@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+#container {
+  margin: 30px;
+
+}
+
+#container div {
+  margin-bottom: 20px;
+}
+
+input {
+  margin: 12px;
+}
+
+output {
+  margin-left: 15px;
+}
